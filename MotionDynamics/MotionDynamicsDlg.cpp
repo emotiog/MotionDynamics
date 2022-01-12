@@ -9,7 +9,7 @@
 
 #include "openGL.h"
 
-#include <gl/glut.h>
+#include "gl/glut.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

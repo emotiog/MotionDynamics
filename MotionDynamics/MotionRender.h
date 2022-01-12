@@ -5,7 +5,7 @@
 #include "Skeleton.h"
 #include "Hierarchy.h"
 
-#include <gl/glut.h>
+#include "gl/glut.h"
 
 namespace NAnimation
 {

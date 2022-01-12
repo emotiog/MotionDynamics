@@ -9,7 +9,7 @@
 #include "Sequence.h"
 #include "MathMethods.h"
 #include "DynamicMatrix.h"
-#include <gl/glut.h>
+#include "gl/glut.h"
 #include "openGL.h"
 #include "Constants.h"
 
